@@ -101,8 +101,7 @@ src/
 ├── hooks/            # Custom React hooks (data fetching, filters)
 ├── pages/            # Route-level page components
 ├── services/         # Axios instance and API helpers
-├── store/            # Zustand state slices
-└── types/            # Shared TypeScript interfaces and types
+├── store.ts          # Zustand state
 ```
 
 ---
